@@ -1,20 +1,10 @@
 #site-title {
-    font-size: 2.5rem;
-    font-family: 'Georgia', serif;
-    color: #00aaff;
-    margin-bottom: 30px;
+    font-size: 4rem;
+    font-family: serif;
+    color: black;
+    margin-bottom: 20px;
   }
 
-/* General layout */
-.weather-app {
-    font-family: Arial, sans-serif;
-    display: flex;
-    justify-content: center;
-    padding: 50px;
-    background-color: #eef2f3;
-    
-  }
-  
   /* Weather card */
   .weather-card {
     background-color: white;
